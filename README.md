@@ -51,3 +51,6 @@ The logo plots and and box plots of scaled differential selection in Figs. 3A, 3
 
 ### Figure S3
 The eigenassay plots from principal component analysis is generated with `PhIP_pca.ipynb`.
+
+## Alignment Pipeline
+The raw sequencing data was processed using [phip-flow](https://github.com/matsengrp/phip-flow) and [phippery](https://github.com/matsengrp/phippery) software tools. See [here](https://matsengrp.github.io/phippery/) for detailed documentation. For questions related to processing the Phage-DMS data for this manuscript, please contact Kevin Sung: ksung2 (at) fredhutch (dot) org.
